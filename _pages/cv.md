@@ -11,26 +11,28 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D Biological Sciences, Virginia Tech, 2024
+*     Advisor: Dr. Dorothea Tholl
+* B.S. Biology, West Chester University of Pennsylvania, 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024 - Present: Post-Doctoral Researcher
+  * Darragh Lab
+  * Department of Biology
+  * Indiana University Bloomington
+  * Bloomington, Indiana, USA
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019 - 2024: Graduate Research and Teaching Assistant
+  * Department of Biological Sciences
+  * Virginia Tech
+  * Blacksburg, VA, USA
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer - Fall 2016: Field and Lab Technician
+  * Stroud Water Research Center
+  * Avondale, PA, USA
+  * Duties included: Insect field collection, mesocosm experiments, data collection and processing
+  * Supervisor: Benjamin Tumolo
   
 Skills
 ======
