@@ -13,7 +13,7 @@ I am originally from Reading, Pennsylvania. I obtained my B.S. in Biology at Wes
 
 I am broadly interested in how novel chemical phenotypes evolve in organisms at the genetic and biosynthetic levels 
 -
-- How are genes that are normally involved in essential functions coopted for novel, specialized biosynthesis? 
+- How are genes and enzymes that are normally involved in essential functions coopted for novel, specialized biosynthesis? 
 
 - How did the complex systems of chemical observed in animals (such as different chemical classes of pheromones of insects) evolve at the genetic level from an essential metabolic "tool box"?
 
